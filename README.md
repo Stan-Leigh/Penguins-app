@@ -4,4 +4,4 @@ In this repository, I use Streamlit share to deploy an app built on streamlit. T
 
 The data used as input parameters could be inputed manually or a csv file containing all the Palmer penguins attributes could be uploaded. The output for an uploaded csv file is a DataFrame Series object where each row signifies the prediction for the corresponding row in the input csv file.
 
-The deployed web app is live at https://stan-leigh-penguins-app-penguins-app-bddhkd.streamlit.app/
+The deployed web app is live at [https://stan-leigh-penguins-app-penguins-app-bddhkd.streamlit.app/](https://stan-leigh-penguins-app-penguins-app.streamlit.app/)
