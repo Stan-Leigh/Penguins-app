@@ -4,7 +4,7 @@ A simple machine learning web application built with **Streamlit** that predicts
 
 The app allows users to either manually input penguin measurements through sidebar controls or upload a CSV file containing penguin features. It then preprocesses the input, applies a saved classification model, and displays both the predicted species and prediction probabilities.
 
-The deployed web app is live [here](https://stan-leigh-penguins-app-penguins-app.streamlit.app/)
+The deployed web app is live [here](https://stan-leigh-penguins-app.streamlit.app/)
 
 ---
 
